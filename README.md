@@ -1,7 +1,7 @@
 # iPhone Calculator Clone
 iPhone Calculator built to practice JavaScript.
 
-[Tutorial](https://www.youtube.com/watch?v=h6UPzVj1ncI)
+[Tutorial I Followed](https://www.youtube.com/watch?v=h6UPzVj1ncI)
 
 [Demo](https://notlad-p.github.io/iphone-calculator/)
 <a href='https://notlad-p.github.io/pair-matching-game/' >
